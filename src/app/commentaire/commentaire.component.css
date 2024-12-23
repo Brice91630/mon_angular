@@ -1,0 +1,15 @@
+.commentaire {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .commentaire p {
+    margin: 5px 0;
+  }
+  
+  .commentaire strong {
+    color: #007bff;
+  }
+  
